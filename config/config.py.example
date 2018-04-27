@@ -1,0 +1,12 @@
+SSID = 'YourSSID'
+WIFI_PASSWORD = 'YourWIFIPassword'
+NETWORK_WAIT = 20
+
+MQTT_BROKER = '127.0.0.1'
+CLIENT_ID = 'ClientName'
+TOPIC_TEMP = 'NameOfTemperatureTopic'
+TOPIC_HUMID = 'NameOfHumidityTopic'
+SENSOR_SLEEP = 30
+DHT22_PIN = 15
+
+
