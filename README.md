@@ -43,6 +43,12 @@ SENSOR_SLEEP = 30
 
 # Data in pin number
 DHT22_PIN = 15
+
+# Publish data LED pin number (optional), set to None if no LED used
+LED_PUBLISH_PIN = None
+
+# Read data LED pin number (optional), set to None if no LED used
+LED_READ_PIN = None
 ```
 
 ### Copy files to your board
