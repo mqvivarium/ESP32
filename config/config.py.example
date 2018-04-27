@@ -8,5 +8,8 @@ TOPIC_TEMP = 'NameOfTemperatureTopic'
 TOPIC_HUMID = 'NameOfHumidityTopic'
 SENSOR_SLEEP = 30
 DHT22_PIN = 15
+LED_PUBLISH_PIN = None
+LED_READ_PIN = None
+
 
 
