@@ -5,6 +5,10 @@ This contains the code to enable sensor readings utilising an ESP32 microcontrol
 
 ![Diagram of project](images/ESP32.png)
 
+### Breadboard schematic
+
+![Breadboard schematic](images/ESP32_viv_bb.png)
+
 ## Getting Started
 Clone this repo to a location from which you can upload to your ESP32 microcontroller running MicroPython
 
